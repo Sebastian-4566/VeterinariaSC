@@ -1,0 +1,2 @@
+Sebastian,Pablo,Perro,Consulta General,20.0
+Martin,rex,Gato,Vacunación,18.0
